@@ -1,4 +1,4 @@
 # resume
 Hello Viewer, this is my resume.
 
-[embed]https://goo.gl/xAgC5j[/embed]
+[embed]https://github.com/saitejdandge/resume/blob/master/saitejdandge.pdf[/embed]
